@@ -3,3 +3,5 @@
 zsh-syntax-highlighting
 out
 *.class
+HackerRank.iml
+.gitignore
